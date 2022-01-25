@@ -1,4 +1,4 @@
-## Olá! Eu sou a Rafaella Ballerini 2
+## Olá! Eu sou a Patricia 
 
 - 🔭 Hoje trabalho com Banco de dados
 - 🌱 Estudando: Python e Banco de dados
