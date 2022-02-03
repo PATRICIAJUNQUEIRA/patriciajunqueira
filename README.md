@@ -1,5 +1,8 @@
-   Hi, I'm Patricia Junqueira 👋
-
+   <div>
+ <img width="300px" align="right" src="https://media0.giphy.com/media/4hCJsNJ7zRcic/200.gif?cid=95b27944c739fc3fbfc86d8e4450b1bb294f65ab766af010&rid=200.gif&ct=s"
+<div>
+   
+  Hi, I'm Patricia Junqueira 👋
 
 - ❤ I lovee programming 
 - 🔭 I’m currently working on operator cloud/data
@@ -10,12 +13,11 @@
 - 📫 How to reach me: patricia.junqueira.mazzari@gmail.com
 -->
 
-<div>
   <a href="https://beacons.ai/patriciajunqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
 </div>
-   
+ 
 ##   
    
 <div style="display: inline_block"><br>
