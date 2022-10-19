@@ -5,8 +5,8 @@
 
 <div>
   
-<img width="250px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="250px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+<img width="105px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="200px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
   ❤ I lovee programming <br/>
   🔭 I’m currently working on operator cloud/data <br/>
