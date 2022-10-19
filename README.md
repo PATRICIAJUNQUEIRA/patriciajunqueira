@@ -5,7 +5,7 @@
 
 <div>
   
-<img width="180px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="200px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="220px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 
@@ -16,12 +16,22 @@
   👯 I’m looking to collaborate on Pythom <br/>
   🤔 I’m looking for help with python <br/>
   📫 How to reach me: patricia.junqueira11@gmail.com <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
   <a href="https://beacons.ai/patriciajunqueira">
-  <img width="320em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
 
