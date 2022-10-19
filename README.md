@@ -1,8 +1,11 @@
    <div>
- <img width="300px" align="right" src="https://media0.giphy.com/media/4hCJsNJ7zRcic/200.gif?cid=95b27944c739fc3fbfc86d8e4450b1bb294f65ab766af010&rid=200.gif&ct=s"
-<div>
+ 
    
   Hi, I'm Patricia Junqueira 👋
+
+<div>
+<img width="250px" align="left" src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="250px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 - ❤ I lovee programming 
 - 🔭 I’m currently working on operator cloud/data
@@ -10,7 +13,7 @@
 - 🌱 I’m currently learning Computer Engineering
 - 👯 I’m looking to collaborate on Pythom
 - 🤔 I’m looking for help with python
-- 📫 How to reach me: patricia.junqueira.mazzari@gmail.com
+- 📫 How to reach me: patricia.junqueira11@gmail.com
 -->
 
   <a href="https://beacons.ai/patriciajunqueira">
@@ -18,6 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
+
 ##   
    
 <div style="display: inline_block"><br>
