@@ -8,7 +8,10 @@
 <img width="200px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="220px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
-
+<br/>
+<br/>
+<br/>
+   
   ❤ I lovee programming <br/>
   🔭 I’m currently working on operator cloud/data <br/>
   💻 Learning Machine Learning and Deep Learning <br/>
@@ -22,12 +25,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
   <a href="https://beacons.ai/patriciajunqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
