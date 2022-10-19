@@ -4,12 +4,13 @@
   Hi, I'm Patricia Junqueira 👋
 
 <div>
-<img width="250px" align="left" src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+  
+<img width="130px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="250px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 - ❤ I lovee programming 
 - 🔭 I’m currently working on operator cloud/data
-- 💻 Learning Pythom, SQLserver, MySQL, Postgresql and Mongodb
+- 💻 Learning Machine Learning and Deep Learning
 - 🌱 I’m currently learning Computer Engineering
 - 👯 I’m looking to collaborate on Pythom
 - 🤔 I’m looking for help with python
