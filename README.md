@@ -13,11 +13,10 @@
 <br/>
    
   ❤ I lovee programming <br/>
-  🔭 I’m currently working on operator cloud/data <br/>
+  🔭 I’m currently working on operator cloud/data and Big Data <br/>
   💻 Learning Machine Learning and Deep Learning <br/>
   🌱 I’m currently learning Computer Engineering <br/>
   👯 I’m looking to collaborate on Pythom <br/>
-  🤔 I’m looking for help with python <br/>
   📫 How to reach me: patricia.junqueira11@gmail.com <br/>
 <br/>
 <br/>
