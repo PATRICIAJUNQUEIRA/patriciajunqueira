@@ -17,7 +17,7 @@
   💻 Learning Machine Learning and Deep Learning <br/>
   🌱 I’m currently learning Computer Engineering <br/>
   👯 I’m looking to collaborate on Pythom <br/>
-  📫 How to reach me: patricia.junqueira11@gmail.com <br/>
+  📫 How to reach me: patricia.junqueira11@gmail.com <br/> and https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/
 <br/>
 <br/>
 <br/>
