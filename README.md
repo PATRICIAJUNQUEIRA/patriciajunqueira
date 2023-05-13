@@ -12,12 +12,12 @@
 <br/>
 <br/>
    
-  ❤ I lovee programming <br/>
-  🔭 I’m currently working on operator cloud/data and Big Data <br/>
-  💻 Learning Machine Learning and Deep Learning <br/>
-  🌱 I’m currently learning Computer Engineering <br/>
-  👯 I’m looking to collaborate on Pythom <br/>
-  📫 How to reach me: patricia.junqueira11@gmail.com <br/> and https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/
+  ❤ Programadora apaixonada por Java, Spring Boot, Python e Análise de Dados <br/>
+  🔭 Trabalhando atualmente com Spring Boot e Desenvolvimento de Aplicações Web <br/>
+  💻 Paixão por SQL, PL/SQL, ETL, Power BI <br/>
+  🌱 Cursando Engenharia da Computação <br/>
+  👯 Experiencia em Analise de dados  <br/>
+  📫 E-mail: patricia.junqueira11@gmail.com <br/> Linkedin: https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/
 <br/>
 <br/>
 <br/>
