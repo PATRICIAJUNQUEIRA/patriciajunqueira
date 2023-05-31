@@ -5,8 +5,8 @@
 
 <div>
   
-<img width="200px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="220px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+<img width="200px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="220px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 <br/>
 <br/>
@@ -17,7 +17,9 @@
   💻 Paixão por SQL, PL/SQL, ETL, Power BI <br/>
   🌱 Cursando Engenharia da Computação <br/>
   👯 Experiencia em Analise de dados  <br/>
-  📫 E-mail: patricia.junqueira11@gmail.com <br/> Linkedin: https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/
+  📫 E-mail:patricia.junqueira11@gmail.com <br/> 
+     Linkedin: https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/ <br/>
+   
 <br/>
 <br/>
 <br/>
@@ -29,8 +31,8 @@
 <br/>
 <br/>
   <a href="https://beacons.ai/patriciajunqueira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
 
