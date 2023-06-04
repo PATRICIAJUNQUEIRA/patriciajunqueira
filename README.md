@@ -12,7 +12,7 @@
 <br/>
 <br/>
    
-  ❤ Programadora apaixonada por Java, Spring Boot, Python e Análise de Dados <br/>
+  ❤ Programadora Java, Spring Boot, Python e Análise de Dados <br/>
   🔭 Trabalhando atualmente com Spring Boot e Desenvolvimento de Aplicações Web <br/>
   💻 Paixão por SQL, PL/SQL, OLTP, OLAP, ETL, Power BI <br/>
   🌱 Cursando Engenharia da Computação <br/>
