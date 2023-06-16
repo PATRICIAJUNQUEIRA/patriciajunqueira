@@ -16,7 +16,7 @@
   🔭 Trabalhando atualmente com Spring Boot e Desenvolvimento de Aplicações Web <br/>
   💻 Paixão por SQL, PL/SQL, OLTP, OLAP, ETL, Power BI <br/>
   🌱 Cursando Engenharia da Computação <br/>
-  👯 Experiencia em Analise de dados  <br/>
+  👯 Experiencia em SQL Server, PL/SQL e Python  <br/>
   📫 E-mail:patricia.junqueira11@gmail.com <br/> 
      Linkedin: https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/ <br/>
    
