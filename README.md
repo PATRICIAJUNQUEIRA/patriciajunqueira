@@ -5,27 +5,22 @@
 
 <div>
   
-<img width="200px" align="left"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="220px" align="right" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+<img width="180px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="220px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+
+
 
 <br/>
 <br/>
 <br/>
    
-  ❤ Programadora Java, Spring Boot, Python e Análise de Dados <br/>
-  🔭 Trabalhando atualmente como Analista de Suporte <br/>
-  💻 Paixão por Spring Boot, Desenvolvimento de Aplicações Web, SQL, PL/SQL, OLTP, OLAP, ETL, Power BI <br/>
+  ❤ Programadora Java Spring Boot, Python e Análise de Dados <br/>
+  🔭 Trabalhando atualmente como Desenvolvimento de Software <br/>
+  💻 Paixão por Spring Boot, Oracle PL/SQL, Data Science e Business Intelligence <br/>
   🌱 Cursando Engenharia da Computação <br/>
-  👯 Experiencia em SQL Server, PL/SQL,Python, Java, PowerBI, Machine learning  <br/>
+  👯 Experiencia em Oracle PL/SQL,Python, Java e Data Science  <br/>
   📫 E-mail:patricia.junqueira11@gmail.com <br/> 
-     Linkedin: https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/ <br/>
-   
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+      
 <br/>
 <br/>
 <br/>
@@ -38,8 +33,7 @@
 </div>
 
 ##   
-   
-<div style="display: inline_block"><br>
+
   
   
   <img align="center" alt="Python"      height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,13 +47,7 @@
   <img align="center" alt="MogoDB"      height="30" width="40"      src="https://img.icons8.com/color/48/000000/mongodb.png"/>
    
   
-  
-  
-   
-   
-  <img align="right" alt="Paty-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-  
-</div>  
+
    
 ##
    
