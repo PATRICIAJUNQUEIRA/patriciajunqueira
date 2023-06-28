@@ -3,30 +3,35 @@
    
 ## Hello world! ☕
 
-<div>
+<div/>
   
-<img width="200px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="220px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
-
-
+<img width="250px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="320px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 <br/>
 <br/>
 <br/>
-   
+
   ❤ Programadora Java Spring Boot, Python e Análise de Dados <br/>
   🔭 Trabalhando atualmente como Desenvolvimento de Software <br/>
   💻 Paixão por Spring Boot, Oracle PL/SQL, Data Science e Business Intelligence <br/>
   🌱 Cursando Engenharia da Computação <br/>
   👯 Experiencia em Oracle PL/SQL,Python, Java e Data Science  <br/>
   📫 E-mail:patricia.junqueira11@gmail.com <br/> 
-      
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
 <div>
+   
 <a href="https://github.com/patriciajunqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=7&theme=dracula"/>
