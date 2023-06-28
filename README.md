@@ -5,7 +5,7 @@
 
 <div>
   
-<img width="180px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="200px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="220px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 
