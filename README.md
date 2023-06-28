@@ -5,19 +5,24 @@
 
 <div/>
   
-<img width="250px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="230px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="310px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 <br/>
 <br/>
 <br/>
 <br/>
+
   ❤ Programadora Java Spring Boot, Python e Análise de Dados <br/>
   🔭 Trabalhando atualmente como Desenvolvimento de Software <br/>
   💻 Paixão por Spring Boot, Oracle PL/SQL, Data Science e Business Intelligence <br/>
   🌱 Cursando Engenharia da Computação <br/>
   👯 Experiencia em Oracle PL/SQL,Python, Java e Data Science  <br/>
   📫 E-mail:patricia.junqueira11@gmail.com <br/> 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
