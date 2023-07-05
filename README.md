@@ -15,7 +15,7 @@
 
   ❤ Programadora Java Spring Boot, Python e Análise de Dados <br/>
   🔭 Trabalhando atualmente como Desenvolvimento de Software <br/>
-  💻 Paixão por Spring Boot, Oracle PL/SQL, Data Science e Business Intelligence <br/>
+  💻 Paixão por Spring Boot, Oracle PL/SQL, Engenharia de Dados e Business Intelligence <br/>
   🌱 Cursando Engenharia da Computação <br/>
   👯 Experiencia em Oracle PL/SQL,Python, Java e Data Science  <br/>
   📫 E-mail:patricia.junqueira11@gmail.com <br/> 
