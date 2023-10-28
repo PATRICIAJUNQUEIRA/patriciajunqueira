@@ -17,7 +17,7 @@
 
 🎓 Estudante de Engenharia da Computação
 
-👯 Experiência: Oracle PL/SQL, Python, Java e Data Science
+👯 Experiência: Oracle PL/SQL, Python e Data Science
 
 📧 Contato: patricia.junqueira11@gmail.com
 
@@ -25,7 +25,10 @@
 
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -50,10 +53,16 @@
 
   <img align="center" alt="Python"      height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java"        height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Scala"       height="110" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
+  <img align="center" alt="Azure"       height="110" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />  
+  <img align="center" alt="Linux"       height="40" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Doucher"     height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Oracle"      height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="SQLserver"   height="30" width="40"      src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img align="center" alt="MySQL"       height="40" width="50"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  
+          
+          
   
 
  <img align="right" height="280px" width="auto" src="https://firebasestorage.googleapis.com/v0/b/imagem-93c86.appspot.com/o/e425a773-bdc4-4fb3-bd25-539ac71e4a0b-removebg-preview.png?alt=media&token=696f7565-05f9-4c39-bdc5-68afabd81d24"/>
