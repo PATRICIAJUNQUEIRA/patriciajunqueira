@@ -17,13 +17,12 @@
 
 🎓 Estudante de Engenharia da Computação
 
-👯 Experiência: Oracle PL/SQL, Python e Data Science
+👯 Experiência: PL/SQL, Python e Data Science
 
 📧 Contato: patricia.junqueira11@gmail.com
 
 
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
@@ -48,7 +47,7 @@
   <img align="center" alt="Azure"       height="110" width="55"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />  
   <img align="center" alt="Linux"       height="40" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Doucher"     height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Oracle"      height="30" width="70"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Oracle"      height="30" width="85"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="SQLserver"   height="30" width="40"      src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img align="center" alt="MySQL"       height="40" width="50"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   
