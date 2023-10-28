@@ -8,17 +8,26 @@
 <img width="210px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="280px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
-<br/>
-<br/>
-<br/>
-<br/>
 
-  ❤ Programadora Java Spring Boot, Python e Análise de Dados <br/>
-  🔭 Trabalhando atualmente como Desenvolvimento de Software <br/>
-  💻 Paixão por Spring Boot, Oracle PL/SQL, Engenharia de Dados e Business Intelligence <br/>
-  🌱 Cursando Engenharia da Computação <br/>
-  👯 Experiencia em Oracle PL/SQL,Python, Java e Data Science  <br/>
-  📫 E-mail:patricia.junqueira11@gmail.com <br/> 
+👩‍💻 Engenheira de Dados & Desenvolvedora de Software
+
+🔧 Tecnologias: Java Spring Boot, Python, Análise de Dados
+
+🏢 Atualmente atuando no desenvolvimento de software
+
+🚀 Apaixonada por Spring Boot, Oracle PL/SQL, Engenharia de Dados e Business Intelligence
+
+🎓 Estudante de Engenharia da Computação
+
+👯 Experiência em Oracle PL/SQL, Python, Java e Data Science
+
+📧 Contato: patricia.junqueira11@gmail.com
+
+
+
+
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -53,6 +62,7 @@
 
  <img align="right" height="280px" width="auto" src="https://firebasestorage.googleapis.com/v0/b/imagem-93c86.appspot.com/o/e425a773-bdc4-4fb3-bd25-539ac71e4a0b-removebg-preview.png?alt=media&token=696f7565-05f9-4c39-bdc5-68afabd81d24"/>
 
+
    
 <div>
   <a href="https://instagram.com/pat.junqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -63,9 +73,5 @@
    
 ##
   
-  
-  
-  
-  
-  ![Snake animation](https://github.com/PATRICIAJUNQUEIRA/PATRICIAJUNQUEIRA/blob/output/github-contribution-grid-snake.svg)
+
   
