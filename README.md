@@ -42,11 +42,11 @@
 
 ##   
 
-  <img align="center" alt="Python"      height="80" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python"      height="50" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="center" alt="Java"        height="80" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Java"        height="50" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="center" alt="Scala"       height="110" width="55"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
+  <img align="center" alt="Scala"       height="100" width="55"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
   
   <img align="center" alt="Azure"       height="110" width="55"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />  
   
@@ -54,11 +54,11 @@
   
   <img align="center" alt="Jenkins"     height="40" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   
-  <img align="center" alt="Kafka"       height="50" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img align="center" alt="Kafka"       height="40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
   
-  <img align="center" alt="Doucher"     height="100" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Doucher"     height="90" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   
-  <img align="center" alt="Oracle"      height="80" width="80"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Oracle"      height="60" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   
   <img align="center" alt="SQLserver"   height="50" width="40"      src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   
