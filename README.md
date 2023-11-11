@@ -19,7 +19,7 @@
 
 👯 Experiência: PL/SQL, Python e Data Science
 
-📧 Contato: https://www.linkedin.com/in/patrícia-miranda-7a7030134/
+📧 Contato: patricia.junqueira11@gmail.com
 
 
 
