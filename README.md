@@ -2,16 +2,16 @@
  
    
 ## Hello world! ☕
-
 <img width="210px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="280px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+
 👩‍💻 Engenheira de Dados & Desenvolvedora de Software
 
 🔧 Tecnologias: Java Spring Boot, Python, Análise de Dados
 
 🏢 Atualmente atuando no desenvolvimento de software
 
-🚀 Apaixonada por Spring Boot, Oracle PL/SQL, Engenharia de Dados e Business Intelligence
+🚀 Apaixonada Engenharia de Dados e Business Intelligence
 
 🎓 Estudante de Engenharia da Computação
 
@@ -20,9 +20,6 @@
 📧 Contato: patricia.junqueira11@gmail.com
 
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
