@@ -9,17 +9,18 @@
 
 🔧 Tecnologias: Java Spring Boot, Python, Análise de Dados
 
-🏢 Atualmente atuando no desenvolvimento de software
+🏢 Atuando no desenvolvimento de software
 
 🚀 Apaixonada Engenharia de Dados e Business Intelligence
 
-🎓 Estudante de Engenharia da Computação
+🎓 Cursando de Engenharia da Computação
 
 👯 Experiência: PL/SQL, Python e Data Science
 
 📧 Contato: patricia.junqueira11@gmail.com
-
-
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
