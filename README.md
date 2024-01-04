@@ -11,13 +11,13 @@
 
 🏢 Atuando no desenvolvimento de software
 
-🚀 Apaixonada em Engenharia de Dados e Business Intelligence
+🚀 Apaixonada em Engenharia de Dados e Data Science
 
 🎓 Cursando de Engenharia da Computação
 
 👯 Experiência: PL/SQL, Python e Data Science
 
-   📧 Contato: patricia.junqueira11@gmail.com
+📧 Contato: patricia.junqueira11@gmail.com
 <br/>
 <br/>
 <br/>
