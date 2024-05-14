@@ -17,7 +17,7 @@
 
 🎓 Cursando de Engenharia da Computação
 
-👯 Experiência: Apache Airflow, Apache Spark, Databricks e ETL/ELT
+👯 Experiência: Apache Airflow, Apache Spark, Databricks
 
 <br/>
 <br/>
