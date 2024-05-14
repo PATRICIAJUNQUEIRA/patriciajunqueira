@@ -7,7 +7,7 @@
 
 👩‍💻 Engenheira de Dados & Desenvolvedora de Software
 
-🔧 Tecnologias: Java Spring Boot, Python, Análise de Dados
+🔧 Tecnologias: Python, Scala e Java
 
 🏢 Atuando no desenvolvimento de software
 
@@ -15,7 +15,7 @@
 
 🎓 Cursando de Engenharia da Computação
 
-👯 Experiência: PL/SQL, Python e Data Science
+👯 Experiência: Apache Airflow, Apache Spark e Databricks
 
 📧 Contato: patricia.junqueira11@gmail.com
 <br/>
