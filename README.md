@@ -1,11 +1,13 @@
    <div>
  
    
-## Hello world! ☕
-<img width="210px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="280px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
+                                                               ☕  Hello world! ☕
+<img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
+<img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
 👩‍💻 Engenheira de Dados & Desenvolvedora de Software
+
+:pushpin: Certificações: DP-900 Azure/Lakehouse Fundamentals - Databricks/ Generative AI Fundamentals-Databricks/Oracle Cloud Data Management/Oracle Cloud Infrastructure/ 
 
 🔧 Tecnologias: Python, Scala e Java
 
@@ -15,13 +17,8 @@
 
 🎓 Cursando de Engenharia da Computação
 
-👯 Experiência: Apache Airflow, Apache Spark e Databricks
+👯 Experiência: Apache Airflow, Apache Spark, Databricks e ETL/ELT
 
-📧 Contato: patricia.junqueira11@gmail.com
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
