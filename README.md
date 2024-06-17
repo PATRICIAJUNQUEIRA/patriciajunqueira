@@ -7,7 +7,7 @@
 
 👩‍💻 Engenheira de Dados & Desenvolvedora de Software
 
-:pushpin: Certificações: DP-900 Azure/Lakehouse Fundamentals - Databricks/ Generative AI Fundamentals-Databricks/Oracle Cloud Data Management/Oracle Cloud Infrastructure/ 
+:pushpin: Certificações:Azure DP-900/Lakehouse Fundamentals - Databricks/ Generative AI Fundamentals-Databricks/Oracle Cloud Data Management/Oracle Cloud Infrastructure/ 
 
 🔧 Tecnologias: Python, Scala e Java
 
