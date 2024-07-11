@@ -5,7 +5,7 @@
 <img width="190px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
 <img width="300px" align="left" src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif"> 
 
-👩‍💻 Engenheira de Dados & Desenvolvedora de Software
+👩‍💻 Engenheira de Dados 🎲
 
 :pushpin: Certificações:Azure DP-900/Lakehouse Fundamentals - Databricks/ Generative AI Fundamentals-Databricks/Oracle Cloud Data Management/Oracle Cloud Infrastructure/ 
 
