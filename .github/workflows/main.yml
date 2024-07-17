@@ -3,9 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake Game from a GitHub Contribution Graph
-        uses: Platane/snk@v2
+        uses: Platane/snk@v2.0.0
         with:
           github_user_name: patriciajunqueira
           outputs: dist/github-contribution-grid-snake.svg
@@ -25,4 +23,4 @@ jobs:
         with:
           branch: output
           file: dist/github-contribution-grid-snake.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
