@@ -55,5 +55,3 @@
   <a href = "mailto:patricia.junqueira11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![snake animation](https://github.com/PATRICIAJUNQUEIRA/PATRICIAJUNQUEIRA/blob/output/github-contribution-grid-snake2.svg)
