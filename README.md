@@ -10,7 +10,7 @@
 
 🔧 Tecnologias: Python, Scala e Java
 
-🏢 Atuando no desenvolvimento de software
+🏢 Atuando em: Engenharia de Dados
 
 🚀 Apaixonada em Engenharia de Dados e Data Science
 
