@@ -14,7 +14,7 @@
 
 🚀 Apaixonada em Engenharia de Dados e Data Science
 
-🎓 Cursando de Engenharia da Computação
+🎓 Formada em: Engenharia da Computação
 
 👯 Experiência: Apache Airflow, Apache Spark, Databricks
 
